@@ -2,7 +2,7 @@
 # Assumes that tab-delimited data files have been stored in
 # working directory.
 
-install.packages("bio.infer")
+## install.packages("bio.infer")
 
 # Load data into R
 site.species <- read.delim("site.species.txt")
